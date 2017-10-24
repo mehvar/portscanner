@@ -5,3 +5,5 @@
 3.Paste the two .js files to the folder.
 
 4.Start scanning
+
+5. This port scanner has reflected XSS and few more issues which are fixed and can be found under new_portscanner repository.
